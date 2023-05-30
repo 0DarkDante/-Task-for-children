@@ -1,4 +1,4 @@
-Задача для детей меньших классов
+Task for children of smaller classes
   
-  * Создана для изучения таблицы умножения
-  * Высвечивуются 2 цифры и три варинта ответа, времени нет, играешь пока не сделаешь ошибку, в конце пишет сколько ты дал правильных ответов
+  * Designed for learning multiplication tables
+  * 2 numbers and three answer options are displayed, there is no time, you play until you make a mistake, at the end it writes how many correct answers you gave
